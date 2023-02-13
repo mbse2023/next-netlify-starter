@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Google for my app!" />
         <p className="description">
     On Monday, over 58,000 houses in New Zealand's upper North Island were without power as Cyclone Gabrielle approached, bringing severe gusts, heavy rain, and massive surf to Auckland and surrounding areas.
 
