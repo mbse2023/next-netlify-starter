@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-    <p><a href="https://mybestsleepever.com">mybestsleepever.com</a></p>
+       <p><a href="https://mybestsleepever.com">mybestsleepever.com</a></p>
       </main>
 
       <Footer />
