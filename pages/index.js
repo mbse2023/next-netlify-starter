@@ -22,8 +22,7 @@ It is presently located just north of New Zealand, with weather forecasts foreca
 
 "The effect of Gabrielle is still in its early stages, and extra significant and severe weather is still predicted for Tamaki Makaurau (Auckland) later today into Tuesday morning," said Rachel Kelleher, Deputy Controller Auckland Emergency Management, on Monday.
 
-"Now is not the time for complacency," she continued.
-
+"Now is not the time for complacency," she continued.  
 Many schools and local government buildings in Auckland and the upper North Island have closed, and residents are being advised not to go if at all possible. Emergency declarations have been issued in Auckland and at least four other areas.
 
 
